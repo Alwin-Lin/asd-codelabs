@@ -51,4 +51,4 @@ able to complete the rest code labs on their own after that.
 - Ready to [Get started for free](https://cloud.google.com/pricing) for Google
 Cloud Platform.
 - Curious to learn & interst to explore next-generation computing system
-development model .
+development model.
