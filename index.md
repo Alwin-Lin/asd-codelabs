@@ -39,7 +39,7 @@ for a taste of [the next-generation development workflows](https://medium.com/ge
 A typical workshop can be planned as:
 - 30min. Meet Coaches
 - 30min. CS 101
-- 40min. Code Lab 1
+- 40min. [Code Lab 1](/codelab1/)
 - 40min. Code Lab 2
 - 40min. Code Lab 3
 
