@@ -19,7 +19,7 @@ This code lab will walk you through how to create a VM and setup a Android devel
   Which will affect for the next VM you create.
   
 #### Create VM with public image
-The following command will create a Debian 10 VM with 100G of storage
+The following command will create a Debian 10 VM with 100G of storage 
 - The ``` create-disk``` line is modified so the user will not need to mount the storage themselves.
 	```
 	gcloud compute instances create asd-vm \
