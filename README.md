@@ -33,6 +33,14 @@ Tech. & be a role model to inspire high schoolers.
 - Experience in building applications using AI technologies.
 - Teamwork and problem-solving skills through a mini-project and final presentation.
 
+## Extra Credits and Certifications
+Unlock new opportunities and showcase your skills! Our bootcamp offers various certifications and Google Cloud skill badges, providing you with tangible recognition for your hard work and achievements.
+- Earn as You Learn: Complete specific modules and projects to earn badges that highlight your skills in AI, ML, and Cloud Computing.
+- Certification of Completion: Receive a certificate upon successfully completing the bootcamp, a testament to your dedication and knowledge.
+- Step Into the Future: Use these certifications to bolster your academic or professional portfolio, opening doors to further education and career opportunities.
+
+Ready to add some impressive credentials to your name? Dive into our bootcamp and start your journey towards certification!
+
 ## Agenda
 - Jan 23
 	- Inauguration
