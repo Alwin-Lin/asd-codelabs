@@ -1,4 +1,4 @@
-# Android System Development On The Cloud
+# Gen AI & The Future of SW Development Bootcamp
 tl;dr How we may level the playing field for better divested CS talent pipelines.
 
 ![Compute A Better Future](res/computeAFuture.png)
@@ -11,9 +11,9 @@ pipeline in their community can use them.
 - Any contribution is welcome. Let's make a dent in the consumer computing universe by getting more started.
 
 ## Why
-- How may we expand the future diversified talent pipeline for Tech.?
-- How can we level the playing field by removing the entry barriers? What if students do not need a powerful computer?
-- How to work from anywhere easier?
+- Expand the future diversified talent pipeline for Tech?
+- Making advanced tech concepts like Machine Learning and Large Language Models accessible to high school students	
+- Bridging the gap in tech education and fostering a diverse talent pool
 
 ### Why Now
 Because
@@ -26,29 +26,46 @@ is just getting started.
 - Coaches from Tech. to share their CS journeys to share what's like to work in
 Tech. & be a role model to inspire high schoolers.
 - Introduction to Computer System 101 to show how theories power our digital lives.
-- Practical code labs to build Android Virtual Device on Google Cloud Platform
-for a taste of [the next-generation development workflows](https://medium.com/geekculture/wwdc21-minority-report-ac4b531a0035)
-& a bit of hands-on satisfaction.
+- Hands-on projects and practical demonstrations to apply learning in real-world scenarios.
 
 ## Key Outcomes
-- Set up a developer machine on the cloud by a Browser anywhere.
-- Build an Android Phone on the cloud.
-- Create & customize your Android Phone on the cloud.
+- Foundational understanding of Machine Learning and Large Language Models.
+- Experience in building applications using AI technologies.
+- Teamwork and problem-solving skills through a mini-project and final presentation.
+
+## Extra Credits and Certifications
+Unlock new opportunities and showcase your skills! Our bootcamp offers various certifications and Google Cloud skill badges, providing you with tangible recognition for your hard work and achievements.
+- Earn as You Learn: Complete specific modules and projects to earn badges that highlight your skills in AI, ML, and Cloud Computing.
+- Certification of Completion: Receive a certificate upon successfully completing the bootcamp, a testament to your dedication and knowledge.
+- Step Into the Future: Use these certifications to bolster your academic or professional portfolio, opening doors to further education and career opportunities.
+
+Ready to add some impressive credentials to your name? Dive into our bootcamp and start your journey towards certification!
 
 ## Agenda
-A typical workshop can be planned as:
-- 30min. Meet Coaches
-- 30min. CS 101
-- 40min. Code Lab 1
-- 40min. Code Lab 2
-- 40min. Code Lab 3
-
-You can also plan a minimal workshop for 2 hours. Becuase students should be
-able to complete the rest code labs on their own after that.
+- Jan 23
+	- Inauguration
+	- Meet the coaches
+- Week 1
+	- Machine Learning 101
+	- Teachable machine
+- Week 2
+	- Generative AI 101
+	- Practical Applications of Gen AI
+- Week 3 & 4
+	- AI in Software Development
+	- Hands-On with AI-Assisted DevOps
+- Week 5
+	- Google Generative AI Studios
+	- Customizing AI models
+- Weeks 6-8
+	- Mini-Project Development
+- Week 9
+	- Project Showcase
 
 ## What do students need to join the workshop?
 - Ready to join [Google Meet meeting](https://apps.google.com/meet/).
 - Ready to [Get started for free](https://cloud.google.com/pricing) for Google
 Cloud Platform.
-- Curious to learn & interst to explore next-generation computing system
+- Sign up for [Github](https://github.com/signup)
+- Curious to learn & interst in exploring next-generation computing system
 development model.
